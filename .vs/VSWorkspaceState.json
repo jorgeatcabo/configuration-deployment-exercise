@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\roles",
+    "\\roles\\setup",
+    "\\roles\\setup\\files",
+    "\\roles\\setup\\tasks"
   ],
+  "SelectedNode": "\\main.yml",
   "PreviewInSolutionExplorer": false
 }
